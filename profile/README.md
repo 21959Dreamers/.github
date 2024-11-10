@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://21959.com.cn/img/group-photo.jpg" alt="Team Photo" width="400px">
+      <img src="https://21959.com.cn/img/group-photo.jpg" alt="Team Photo" width="500px">
     </td>
     <td>
       <p>Welcome to <strong>FTC Team 21959</strong>, the <em>Dreamers</em>! We’re dedicated to innovation, collaboration, and pushing the boundaries of the FIRST Tech Challenge. Discover more about our journey, achievements, and projects through our official channels.</p>
